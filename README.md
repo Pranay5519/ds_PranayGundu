@@ -21,26 +21,6 @@ The goal is to identify **behavioral patterns and hidden signals** that can info
 
 - **Bitcoin Fear & Greed Index**  
   https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
-
----
-
-## Repository Structure
-ds_<candidate_name>/
-├── assign_1.ipynb # Main analysis notebook (Google Colab)
-├── csv_files/ # Generated datasets and metrics
-│ ├── baseline_behavior_by_sentiment.csv
-│ ├── sentiment_metrics.csv
-│ ├── coin_sentiment_performance.csv
-│ └── trader_sentiment_performance.csv
-├── outputs/ # Saved plots and visualizations
-│ ├── pnl_distribution_boxplot.png
-│ ├── profit_loss_count_by_sentiment.png
-│ ├── coin_sentiment_pnl_heatmap.png
-│ └── yearly_pnl_by_sentiment_bar.png
-├── ds_report.pdf # Final summarized report
-└── README.md
-
-
 ---
 
 ## Methodology (High Level)
